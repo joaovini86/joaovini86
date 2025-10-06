@@ -7,7 +7,6 @@ My name is João Vinicius and I'm a Frontend & Backend Developer
 Analyst with experience in JavaScript, React, Next.js, and Oracle/MySQL.  
 Passionate about problem-solving and continuous learning.
 
-I also enjoy creating content, sharing knowledge, and collaborating in projects.
 
 ## I code with
 
@@ -21,6 +20,5 @@ I also enjoy creating content, sharing knowledge, and collaborating in projects.
 
 ## Social media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/seu-canal)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãoviniciusrosamonteiro)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://https://www.instagram.com/joaovini86/)
